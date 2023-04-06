@@ -1,5 +1,13 @@
 # Gradual-Change Trace Analysis
 
+All codes listed in this repository are developed by Longfu Xu (longfuxu.com) during the phD work in Gijs Wuite Group, to investigate the DNA replication at the single-molecule level.
+
+Please note that the code in this repository is custom written for internal lab use and still may contain bugs; external support cannot be guaranteed.
+
+Developer:
+
+Longfu Xu (longfuxu.com) . Maintenance, development, support. For questions or reports, e-mail: l2.xu@vu.nl
+
 This Python script provides a method for analyzing a gradual-change trace to identify sudden changes in the data. It filters the data, calculates the first derivative, detects change-points, reconstructs the fitted data, and visualizes the results.
 
 ## Overview
